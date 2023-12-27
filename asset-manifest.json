@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.c1062383.css",
+    "main.js": "/my-portfolio/static/js/main.7c16bddc.js",
+    "static/js/787.2dcca737.chunk.js": "/my-portfolio/static/js/787.2dcca737.chunk.js",
+    "static/media/fotoDP.png": "/my-portfolio/static/media/fotoDP.4a44751c0f2a1826a365.png",
+    "static/media/Eze.png": "/my-portfolio/static/media/Eze.82155c23bae0b37f3d6e.png",
+    "static/media/CV Ezequiel Barrena 2022.pdf": "/my-portfolio/static/media/CV Ezequiel Barrena 2022.38331ad435617732191b.pdf",
+    "static/media/prueba.png": "/my-portfolio/static/media/prueba.5d2639e837f9df4219cc.png",
+    "static/media/visual.png": "/my-portfolio/static/media/visual.e66400756ccbdbfc0b31.png",
+    "static/media/office.png": "/my-portfolio/static/media/office.53f3a1d666aabac8cfdf.png",
+    "static/media/zoo.png": "/my-portfolio/static/media/zoo.8dd156943a0f64bba426.png",
+    "static/media/reactNative.png": "/my-portfolio/static/media/reactNative.214af24d7f042fd76977.png",
+    "static/media/nodejs.png": "/my-portfolio/static/media/nodejs.112b36afa8277de5b944.png",
+    "static/media/dev.png": "/my-portfolio/static/media/dev.877f850414db61caa2c9.png",
+    "static/media/Accenture.png": "/my-portfolio/static/media/Accenture.6bfee3be587e351d07a1.png",
+    "static/media/mongo.png": "/my-portfolio/static/media/mongo.095e741f1d83f4142b27.png",
+    "static/media/web.png": "/my-portfolio/static/media/web.93a7a4866ad450cd07f2.png",
+    "static/media/IGCSE.jpg": "/my-portfolio/static/media/IGCSE.65680310578f4efee105.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.c1062383.css.map": "/my-portfolio/static/css/main.c1062383.css.map",
+    "main.7c16bddc.js.map": "/my-portfolio/static/js/main.7c16bddc.js.map",
+    "787.2dcca737.chunk.js.map": "/my-portfolio/static/js/787.2dcca737.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1062383.css",
+    "static/js/main.7c16bddc.js"
+  ]
+}
