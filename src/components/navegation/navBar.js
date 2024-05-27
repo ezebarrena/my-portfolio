@@ -53,6 +53,9 @@ const navBar = () => {
                             <a className="nav-link active" aria-current="page" href="/#exp" >Experiencia</a>
                         </li>
 
+                        <li className="nav-item">
+                            <a className="nav-link active" aria-current="page" href="/#prj" >Proyectos</a>
+                        </li>
                     </ul>
                     
                     

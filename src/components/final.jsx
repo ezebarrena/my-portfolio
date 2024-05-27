@@ -9,7 +9,7 @@ function final(){
       }
     return(
         <div className="contenedorFinal">
-            <div className="row">
+            <div className="row" style={{ padding: 0,  margin: 0 }}>
                 <div className="col-md-2"></div>
                 <div className="col-md-8">
                 <div className="SeparadorSup"></div>

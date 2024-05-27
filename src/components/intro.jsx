@@ -6,9 +6,7 @@ import pdf from "../assets/CV/CV Ezequiel Barrena 2022.pdf"
 function intro() {
     return(
         <div className="bg3" id="intro">
-        
-            <div className="row">
-
+            <div className="row" style={{ padding: 0,  margin: 0 }}>
                 <div className="col-md-6 col-12">
                     <div className="row"> 
                         <div className="col-md-2"></div>
@@ -39,9 +37,7 @@ function intro() {
                                         </a>
                                     </div>
                                 </div>
-                                
-                            </div>
-                                           
+                            </div>     
                         </div>
                         <div className="col-md-1"></div>
                     </div> 
@@ -54,13 +50,8 @@ function intro() {
                         </div>
                     </div>
                 </div>
-
-
-                
             </div>
-
         </div>
-        
     );
 }
 
