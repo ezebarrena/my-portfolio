@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.c1062383.css",
-    "main.js": "/my-portfolio/static/js/main.7c16bddc.js",
+    "main.css": "/my-portfolio/static/css/main.8b2eb702.css",
+    "main.js": "/my-portfolio/static/js/main.f5b465f4.js",
     "static/js/787.2dcca737.chunk.js": "/my-portfolio/static/js/787.2dcca737.chunk.js",
     "static/media/fotoDP.png": "/my-portfolio/static/media/fotoDP.4a44751c0f2a1826a365.png",
     "static/media/Eze.png": "/my-portfolio/static/media/Eze.82155c23bae0b37f3d6e.png",
+    "static/media/nutrifive.png": "/my-portfolio/static/media/nutrifive.ab9049a61bfe6fe06a03.png",
+    "static/media/mihome.png": "/my-portfolio/static/media/mihome.7fa718a06077209710d0.png",
     "static/media/CV Ezequiel Barrena 2022.pdf": "/my-portfolio/static/media/CV Ezequiel Barrena 2022.38331ad435617732191b.pdf",
     "static/media/prueba.png": "/my-portfolio/static/media/prueba.5d2639e837f9df4219cc.png",
     "static/media/visual.png": "/my-portfolio/static/media/visual.e66400756ccbdbfc0b31.png",
@@ -18,12 +20,12 @@
     "static/media/web.png": "/my-portfolio/static/media/web.93a7a4866ad450cd07f2.png",
     "static/media/IGCSE.jpg": "/my-portfolio/static/media/IGCSE.65680310578f4efee105.jpg",
     "index.html": "/my-portfolio/index.html",
-    "main.c1062383.css.map": "/my-portfolio/static/css/main.c1062383.css.map",
-    "main.7c16bddc.js.map": "/my-portfolio/static/js/main.7c16bddc.js.map",
+    "main.8b2eb702.css.map": "/my-portfolio/static/css/main.8b2eb702.css.map",
+    "main.f5b465f4.js.map": "/my-portfolio/static/js/main.f5b465f4.js.map",
     "787.2dcca737.chunk.js.map": "/my-portfolio/static/js/787.2dcca737.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1062383.css",
-    "static/js/main.7c16bddc.js"
+    "static/css/main.8b2eb702.css",
+    "static/js/main.f5b465f4.js"
   ]
 }
