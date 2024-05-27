@@ -34,27 +34,27 @@ const navBar = () => {
                     <ul className="navbar-nav mx-auto">
 
                         <li className="nav-item">
-                            <a className="nav-link active" aria-current="page" href="/#intro">Introducción</a>
+                            <a className="nav-link active" aria-current="page" href="/my-portfolio/#intro">Introducción</a>
                         </li>
 
                         <li className="nav-item">
-                            <a className="nav-link active" aria-current="page" href="/#dp">Datos Personales</a>
+                            <a className="nav-link active" aria-current="page" href="/my-portfolio/#dp">Datos Personales</a>
                         </li>
 
                         <li className="nav-item">
-                            <a className="nav-link active" aria-current="page" href="/#skills">Skills</a>
+                            <a className="nav-link active" aria-current="page" href="/my-portfolio/#skills">Skills</a>
                         </li>                     
 
                         <li className="nav-item">
-                            <a className="nav-link active" aria-current="page" href="/#est">Estudios</a>
+                            <a className="nav-link active" aria-current="page" href="/my-portfolio/#est">Estudios</a>
                         </li>
 
                         <li className="nav-item">
-                            <a className="nav-link active" aria-current="page" href="/#exp" >Experiencia</a>
+                            <a className="nav-link active" aria-current="page" href="/my-portfolio/#exp" >Experiencia</a>
                         </li>
 
                         <li className="nav-item">
-                            <a className="nav-link active" aria-current="page" href="/#prj" >Proyectos</a>
+                            <a className="nav-link active" aria-current="page" href="/my-portfolio/#prj" >Proyectos</a>
                         </li>
                     </ul>
                     
